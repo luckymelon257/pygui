@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "John Doe",
+        "Age": 28,
+        "Occupation": "Software Engineer"
+    },
+    {
+        "Name": "Anna Smith",
+        "Age": 22,
+        "Occupation": "Graphic Designer"
+    },
+    {
+        "Name": "Mike Johnson",
+        "Age": 35,
+        "Occupation": "Doctor"
+    },
+    {
+        "Name": "Emily Davis",
+        "Age": 30,
+        "Occupation": "Teacher"
+    },
+    {
+        "Name": "David Brown",
+        "Age": 40,
+        "Occupation": "Accountant"
+    }
+]
